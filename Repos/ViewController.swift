@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        //Comentario de Adolfo Vela...quite el primer comentario. 
+        //Comentario de Adolfo Vela...quite el primer comentario.
         
     }
 
