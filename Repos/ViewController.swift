@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         //y omentè esto hgjg
+        //este es otro comentario
     }
 
     override func didReceiveMemoryWarning() {
