@@ -15,7 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         // Una linea Adolfo
         
-        self.view.backgroundColor = UIColor.blueColor()
+        self.view.backgroundColor = UIColor.greenColor()
     }
 
     override func didReceiveMemoryWarning() {
